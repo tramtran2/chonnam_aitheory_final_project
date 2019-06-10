@@ -18,6 +18,9 @@ Subject: **AI Theory**<br/>
 6. Run remaing jupyter notebooks to run SVM [5] classification on HOGs [3], LBPs [4] features for facial emotion recognition [1].
 
 ## RAF-DB Dataset information
+**(1) Emotion Distribution**
+
+![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/rafdb_data_distribution.png)
 
 ## References
 [1]  P. Ekman, “Facial expression and emotion.,”American psychologist, vol. 48, no. 4, p. 384, 1993.
