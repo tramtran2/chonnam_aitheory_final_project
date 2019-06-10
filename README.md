@@ -77,12 +77,12 @@ Subject: **AI Theory**<br/>
 
 **(2) LBP Entire Features**
 
-![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/cm_lbp_entire.png)
+![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/lbp_entrie_false.png)
 
 
 **(3) LBP Patch Features**
 
-![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/cm_lbp_patch.png)
+![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/lbp_patch_false.png)
 
 ## References
 [1]  P. Ekman, “Facial expression and emotion.,”American psychologist, vol. 48, no. 4, p. 384, 1993.
