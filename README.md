@@ -22,6 +22,18 @@ Subject: **AI Theory**<br/>
 
 ![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/rafdb_data_distribution.png)
 
+**(2) Face annotation**
+
+![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/rafdb_image_annotation.png)
+
+**(3) Training images**
+
+![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/traininig_images.png)
+
+**(4) Testing images**
+
+![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/testing_images.png)
+
 ## References
 [1]  P. Ekman, “Facial expression and emotion.,”American psychologist, vol. 48, no. 4, p. 384, 1993.
 
