@@ -34,6 +34,40 @@ Subject: **AI Theory**<br/>
 
 ![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/testing_images.png)
 
+## Feature Extraction
+**(1) HOG Features**
+
+![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/hog_features.png)
+
+
+**(2) LBP Entire Features**
+
+![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/lbp_entire_features.png)
+
+
+**(3) LBP Patch Features**
+
+![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/lbp_patch_features.png)
+
+## Overall method
+
+![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/algorithm.png)
+
+## Results
+**(1) HOG Features**
+
+![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/cm_hog.png)
+
+
+**(2) LBP Entire Features**
+
+![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/cm_lbp_entire.png)
+
+
+**(3) LBP Patch Features**
+
+![alt text](https://github.com/tramtran2/chonnam_aitheory_final_project/blob/master/images/cm_lbp_patch.png)
+
 ## References
 [1]  P. Ekman, “Facial expression and emotion.,”American psychologist, vol. 48, no. 4, p. 384, 1993.
 
