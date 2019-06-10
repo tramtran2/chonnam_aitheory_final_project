@@ -6,7 +6,7 @@ Subject: **AI Theory**<br/>
 
 ## Requirements
 1. Python 3 with libraries sklearn, skimage, re, pandas, matplotlib, numpy
-2. RAF-DB Basic Dataset (http://www.whdeng.cn/RAF/model1.html)
+2. RAF-DB Basic Dataset (http://www.whdeng.cn/RAF/model1.html) [2]
 3. Jupyter notebook
 
 ## How to run source code
@@ -15,7 +15,9 @@ Subject: **AI Theory**<br/>
 3. Run 01. rafdb_preprocessing.ipynb to create rafdb_basic.hdf5 indexing file.
 4. Run 02. rafdb_explorer_data.ipynb to anlyze the dataset.
 5. Run 03. rafdb_feature_extraction.ipynb to extract HOGs, LBPs features to data folder.
-6. Run remaing jupyter notebooks to run classification on HOGs, LBPs features.
+6. Run remaing jupyter notebooks to run SVM [5] classification on HOGs [3], LBPs [4] features for facial emotion recognition [1].
+
+## RAF-DB Dataset information
 
 ## References
 [1]  P. Ekman, “Facial expression and emotion.,”American psychologist, vol. 48, no. 4, p. 384, 1993.
